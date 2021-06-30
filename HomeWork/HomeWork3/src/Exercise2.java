@@ -23,7 +23,6 @@ public class Exercise2 {
             System.out.println("Đây là chuỗi palindrome");
         }
 
-        sc.close();
     }
 
 }
