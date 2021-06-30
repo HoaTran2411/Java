@@ -67,7 +67,18 @@ public class App {
         String str2 = "HOA TRan";
         System.out.println(str1.equals(str2));
         System.out.println(str2.equalsIgnoreCase(str1));
+
+        //các phương thức của string 
+        String name = "Trần Thị Thu Hoa";
+        System.out.println(name.charAt(0));
+        int i = name.indexOf('h',8);
+        System.out.println(i);
+        String newName = name.replace(' ','-');
+        System.out.println("Tên sau khi update: "+ newName);
         
+
+        //gọi đối tượng có tham số truyền vào:
+        Person.introduceMyself("Hoa",25,"Hưng Yên");
     }
 
     //tạo phương thức khác main
@@ -85,7 +96,3 @@ public class App {
 //nên dùng cách String literal như ở trên bởi vì hiệu năng
 
 
-//bài về nhà: 
-//viết chương trình giới thiệu bản thân (tên: string, tuổi:int
-//địa chỉ: string)
-//hoàn thiện bài calculator (thêm phương thức nhân 2 số)

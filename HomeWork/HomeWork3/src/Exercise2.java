@@ -5,7 +5,7 @@ public class Exercise2 {
     public void checkPalindrome() {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Nhập vào 1 chuỗi bất kỳ: ");
+        System.out.println("Nhập vào 1 chuỗi bất kỳ (không dấu): ");
         String str2 = sc.nextLine();
 
         Boolean check = true;
