@@ -60,16 +60,19 @@ public class App {
         // arrPerson[2] = new Person("Đức", 25, "Bắc Ninh");  //gọi thẳng trong đây cũng dc
 
         //dữ liệu nhập từ bàn phím:
-        for(int i = 0; i < arrPerson.length; i++){
-            Person person = new Person();
-            person.input();
-            arrPerson[i] = person;
-        }
+        // for(int i = 0; i < arrPerson.length; i++){
+        //     Person person = new Person();
+        //     person.input();
+        //     arrPerson[i] = person;
+        // }
 
-        for (int i = 0; i < arrPerson.length; i++){
-            System.out.println(arrPerson[i]);
-        }
+        
 
+        // for (int i = 0; i < arrPerson.length; i++){
+        //     System.out.println(arrPerson[i]);
+        // }
+
+        
 
 
 
