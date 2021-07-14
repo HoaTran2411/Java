@@ -1,0 +1,502 @@
+[
+    {
+        "id": 101,
+        "name": "posuere cubilia",
+        "publisher": "Feedmix",
+        "numberPages": 66,
+        "status": "Genderfluid",
+        "totalBooks": 1003,
+        "numberBorrow": 200,
+        "location": "e05c:2889:25db:3082:2825:3b4c:e7d:8a08"
+    },
+    {
+        "id": 102,
+        "name": "fermentum donec",
+        "publisher": "Mynte",
+        "numberPages": 67,
+        "status": "Agender",
+        "totalBooks": 1004,
+        "numberBorrow": 200,
+        "location": "7503:39b8:52a5:8ec3:d18:4d6:9ea:3c45"
+    },
+    {
+        "id": 103,
+        "name": "sapien cum sociis",
+        "publisher": "Skaboo",
+        "numberPages": 68,
+        "status": "Agender",
+        "totalBooks": 1005,
+        "numberBorrow": 200,
+        "location": "45be:f97f:1e04:6ab5:7e89:bed3:4733:fad6"
+    },
+    {
+        "id": 104,
+        "name": "praesent id",
+        "publisher": "Izio",
+        "numberPages": 69,
+        "status": "Male",
+        "totalBooks": 1006,
+        "numberBorrow": 200,
+        "location": "81d0:bdb1:49d9:732d:ad1:bea:cd17:2904"
+    },
+    {
+        "id": 105,
+        "name": "sit amet",
+        "publisher": "Janyx",
+        "numberPages": 70,
+        "status": "Male",
+        "totalBooks": 1007,
+        "numberBorrow": 200,
+        "location": "7356:7232:f1ec:35e8:a3eb:7afc:20d8:80ac"
+    },
+    {
+        "id": 106,
+        "name": "pulvinar lobortis est",
+        "publisher": "Feedfire",
+        "numberPages": 71,
+        "status": "Male",
+        "totalBooks": 1008,
+        "numberBorrow": 200,
+        "location": "1098:87be:b4fe:bec5:5ebe:5204:e11e:f2be"
+    },
+    {
+        "id": 107,
+        "name": "curae nulla",
+        "publisher": "Yodoo",
+        "numberPages": 72,
+        "status": "Non-binary",
+        "totalBooks": 1009,
+        "numberBorrow": 200,
+        "location": "a80a:641e:1f2d:8f7f:30e5:99e8:64d3:a10f"
+    },
+    {
+        "id": 108,
+        "name": "nec nisi",
+        "publisher": "Kanoodle",
+        "numberPages": 73,
+        "status": "Bigender",
+        "totalBooks": 1010,
+        "numberBorrow": 200,
+        "location": "b49e:846:f7f7:b10b:dfd:f992:4775:b69c"
+    },
+    {
+        "id": 109,
+        "name": "leo odio condimentum",
+        "publisher": "Skyvu",
+        "numberPages": 74,
+        "status": "Genderfluid",
+        "totalBooks": 1011,
+        "numberBorrow": 200,
+        "location": "a77c:7290:e7fb:329d:605e:30a:d19e:ea57"
+    },
+    {
+        "id": 110,
+        "name": "dui proin",
+        "publisher": "InnoZ",
+        "numberPages": 75,
+        "status": "Bigender",
+        "totalBooks": 1012,
+        "numberBorrow": 200,
+        "location": "dfe1:32d7:2c11:3510:49b8:7fde:2699:a6c3"
+    },
+    {
+        "id": 111,
+        "name": "eleifend luctus ultricies",
+        "publisher": "Riffpedia",
+        "numberPages": 76,
+        "status": "Bigender",
+        "totalBooks": 1013,
+        "numberBorrow": 200,
+        "location": "2017:b72e:99e5:80ee:d527:a69e:e54b:a0a"
+    },
+    {
+        "id": 112,
+        "name": "amet sapien dignissim",
+        "publisher": "Dabjam",
+        "numberPages": 77,
+        "status": "Polygender",
+        "totalBooks": 1014,
+        "numberBorrow": 200,
+        "location": "2eeb:a7b7:4e8c:3ccf:dbe2:b608:7390:6935"
+    },
+    {
+        "id": 113,
+        "name": "lorem ipsum dolor",
+        "publisher": "Reallinks",
+        "numberPages": 78,
+        "status": "Non-binary",
+        "totalBooks": 1015,
+        "numberBorrow": 200,
+        "location": "92f2:252d:fdee:b413:ef82:b079:a557:9ab8"
+    },
+    {
+        "id": 114,
+        "name": "vestibulum ante",
+        "publisher": "InnoZ",
+        "numberPages": 79,
+        "status": "Non-binary",
+        "totalBooks": 1016,
+        "numberBorrow": 200,
+        "location": "dab:7a99:a7a6:38b1:ed9e:a9bc:87e3:a719"
+    },
+    {
+        "id": 115,
+        "name": "augue vestibulum ante",
+        "publisher": "Livefish",
+        "numberPages": 80,
+        "status": "Agender",
+        "totalBooks": 1017,
+        "numberBorrow": 200,
+        "location": "4c13:fa3e:b55a:11da:ffeb:a985:fbfa:f57b"
+    },
+    {
+        "id": 116,
+        "name": "vulputate luctus cum",
+        "publisher": "Voomm",
+        "numberPages": 81,
+        "status": "Male",
+        "totalBooks": 1018,
+        "numberBorrow": 200,
+        "location": "d969:d84e:a2c9:2a38:8674:c662:f4d:ff54"
+    },
+    {
+        "id": 117,
+        "name": "at velit vivamus",
+        "publisher": "Aivee",
+        "numberPages": 82,
+        "status": "Polygender",
+        "totalBooks": 1019,
+        "numberBorrow": 200,
+        "location": "66c2:653e:9f99:74a1:1eb8:248f:b620:f427"
+    },
+    {
+        "id": 118,
+        "name": "et ultrices",
+        "publisher": "Devbug",
+        "numberPages": 83,
+        "status": "Non-binary",
+        "totalBooks": 1020,
+        "numberBorrow": 200,
+        "location": "620b:4c2b:efb1:7676:81fe:db1e:dd76:1020"
+    },
+    {
+        "id": 119,
+        "name": "sit amet",
+        "publisher": "Quaxo",
+        "numberPages": 84,
+        "status": "Male",
+        "totalBooks": 1021,
+        "numberBorrow": 200,
+        "location": "2b1f:b6b2:676d:51e2:2a70:620:f79:d070"
+    },
+    {
+        "id": 120,
+        "name": "nisi volutpat eleifend",
+        "publisher": "Plambee",
+        "numberPages": 85,
+        "status": "Genderfluid",
+        "totalBooks": 1022,
+        "numberBorrow": 200,
+        "location": "b255:f2b4:82ab:8452:b096:284a:f2c2:e554"
+    },
+    {
+        "id": 121,
+        "name": "vulputate luctus",
+        "publisher": "Tagfeed",
+        "numberPages": 86,
+        "status": "Bigender",
+        "totalBooks": 1023,
+        "numberBorrow": 200,
+        "location": "64e8:9497:b85e:ddbc:8939:bd4a:30bb:3b83"
+    },
+    {
+        "id": 122,
+        "name": "consequat lectus",
+        "publisher": "Quire",
+        "numberPages": 87,
+        "status": "Bigender",
+        "totalBooks": 1024,
+        "numberBorrow": 200,
+        "location": "2a8b:f98c:e71c:ef01:7007:fa80:8e5d:90ac"
+    },
+    {
+        "id": 123,
+        "name": "vel nisl",
+        "publisher": "LiveZ",
+        "numberPages": 88,
+        "status": "Genderfluid",
+        "totalBooks": 1025,
+        "numberBorrow": 200,
+        "location": "a5a0:1574:a007:6f50:5778:4032:d967:dc86"
+    },
+    {
+        "id": 124,
+        "name": "sit amet",
+        "publisher": "Trudoo",
+        "numberPages": 89,
+        "status": "Male",
+        "totalBooks": 1026,
+        "numberBorrow": 200,
+        "location": "855a:d245:d256:d398:9580:efe6:6c2e:fb0b"
+    },
+    {
+        "id": 125,
+        "name": "est risus auctor",
+        "publisher": "Edgetag",
+        "numberPages": 90,
+        "status": "Polygender",
+        "totalBooks": 1027,
+        "numberBorrow": 200,
+        "location": "5c6a:b635:660f:5255:cfac:dfda:d3d:77cc"
+    },
+    {
+        "id": 126,
+        "name": "ac nibh fusce",
+        "publisher": "Buzzshare",
+        "numberPages": 91,
+        "status": "Polygender",
+        "totalBooks": 1028,
+        "numberBorrow": 200,
+        "location": "7e3b:885d:499f:ed65:46a8:3dd5:7b18:fb0d"
+    },
+    {
+        "id": 127,
+        "name": "amet eros suspendisse",
+        "publisher": "Meeveo",
+        "numberPages": 92,
+        "status": "Female",
+        "totalBooks": 1029,
+        "numberBorrow": 200,
+        "location": "a8ff:78e2:ade2:1003:aa6b:9453:20e9:5bf8"
+    },
+    {
+        "id": 128,
+        "name": "ac nulla",
+        "publisher": "Trupe",
+        "numberPages": 93,
+        "status": "Polygender",
+        "totalBooks": 1030,
+        "numberBorrow": 200,
+        "location": "7e8b:ba3d:d579:6103:f61e:5b4f:3bbb:b7e0"
+    },
+    {
+        "id": 129,
+        "name": "phasellus id",
+        "publisher": "Yoveo",
+        "numberPages": 94,
+        "status": "Genderqueer",
+        "totalBooks": 1031,
+        "numberBorrow": 200,
+        "location": "9604:6b7e:e7c:27f3:31df:6729:9515:80b2"
+    },
+    {
+        "id": 130,
+        "name": "accumsan tortor quis",
+        "publisher": "Dynabox",
+        "numberPages": 95,
+        "status": "Female",
+        "totalBooks": 1032,
+        "numberBorrow": 200,
+        "location": "52f2:3c64:de8a:de11:446b:e45c:87dc:fff"
+    },
+    {
+        "id": 131,
+        "name": "nisi venenatis tristique",
+        "publisher": "Lazzy",
+        "numberPages": 96,
+        "status": "Agender",
+        "totalBooks": 1033,
+        "numberBorrow": 200,
+        "location": "184:8c1a:b96c:5f21:2121:ca05:1e36:93ba"
+    },
+    {
+        "id": 132,
+        "name": "morbi odio odio",
+        "publisher": "Thoughtbridge",
+        "numberPages": 97,
+        "status": "Agender",
+        "totalBooks": 1034,
+        "numberBorrow": 200,
+        "location": "9a5:67cb:9800:4c14:7b97:7548:87b5:1db8"
+    },
+    {
+        "id": 133,
+        "name": "in purus",
+        "publisher": "Jaxspan",
+        "numberPages": 98,
+        "status": "Female",
+        "totalBooks": 1035,
+        "numberBorrow": 200,
+        "location": "fe8a:c0c5:33d2:ef51:1229:ffb2:4dd0:88ad"
+    },
+    {
+        "id": 134,
+        "name": "viverra diam",
+        "publisher": "Dabshots",
+        "numberPages": 99,
+        "status": "Genderfluid",
+        "totalBooks": 1036,
+        "numberBorrow": 200,
+        "location": "625f:3ce3:b6ae:da29:f5d1:d8b2:b9a4:7fe"
+    },
+    {
+        "id": 135,
+        "name": "vitae mattis nibh",
+        "publisher": "Mynte",
+        "numberPages": 100,
+        "status": "Female",
+        "totalBooks": 1037,
+        "numberBorrow": 200,
+        "location": "ec41:be3d:4513:9cc:a6f8:344a:2d08:a667"
+    },
+    {
+        "id": 136,
+        "name": "nunc commodo",
+        "publisher": "Realcube",
+        "numberPages": 101,
+        "status": "Bigender",
+        "totalBooks": 1038,
+        "numberBorrow": 200,
+        "location": "fd31:5eb9:9561:dd50:c21b:8dc1:2104:d51e"
+    },
+    {
+        "id": 137,
+        "name": "sapien varius",
+        "publisher": "Teklist",
+        "numberPages": 102,
+        "status": "Genderqueer",
+        "totalBooks": 1039,
+        "numberBorrow": 200,
+        "location": "abae:69e5:76d:437f:4e6d:645f:bded:f6d9"
+    },
+    {
+        "id": 138,
+        "name": "orci luctus et",
+        "publisher": "Kanoodle",
+        "numberPages": 103,
+        "status": "Agender",
+        "totalBooks": 1040,
+        "numberBorrow": 200,
+        "location": "8260:3274:cf5e:2dbf:c71f:62cf:ce99:e777"
+    },
+    {
+        "id": 139,
+        "name": "in felis",
+        "publisher": "Eabox",
+        "numberPages": 104,
+        "status": "Genderfluid",
+        "totalBooks": 1041,
+        "numberBorrow": 200,
+        "location": "3322:89a5:1e92:bd5a:46ce:906c:d11:5f8a"
+    },
+    {
+        "id": 140,
+        "name": "at turpis",
+        "publisher": "Quamba",
+        "numberPages": 105,
+        "status": "Male",
+        "totalBooks": 1042,
+        "numberBorrow": 200,
+        "location": "c059:2bb1:dcf4:ab88:83ba:32a6:f545:38cf"
+    },
+    {
+        "id": 141,
+        "name": "donec posuere",
+        "publisher": "Demimbu",
+        "numberPages": 106,
+        "status": "Non-binary",
+        "totalBooks": 1043,
+        "numberBorrow": 200,
+        "location": "d01e:3fbc:a9a0:b99d:44de:861:cb04:e108"
+    },
+    {
+        "id": 142,
+        "name": "platea dictumst",
+        "publisher": "Browsedrive",
+        "numberPages": 107,
+        "status": "Agender",
+        "totalBooks": 1044,
+        "numberBorrow": 200,
+        "location": "cc94:9fda:94bc:c259:ab52:9029:a9ec:f5b1"
+    },
+    {
+        "id": 143,
+        "name": "risus semper porta",
+        "publisher": "Youspan",
+        "numberPages": 108,
+        "status": "Genderqueer",
+        "totalBooks": 1045,
+        "numberBorrow": 200,
+        "location": "2766:e4ca:959f:6eeb:73dd:45b0:2bbf:6600"
+    },
+    {
+        "id": 144,
+        "name": "felis fusce",
+        "publisher": "Quimm",
+        "numberPages": 109,
+        "status": "Genderfluid",
+        "totalBooks": 1046,
+        "numberBorrow": 200,
+        "location": "7987:2cc0:a63e:c33c:f0f3:a87a:fb57:fb73"
+    },
+    {
+        "id": 145,
+        "name": "elementum pellentesque quisque",
+        "publisher": "Katz",
+        "numberPages": 110,
+        "status": "Bigender",
+        "totalBooks": 1047,
+        "numberBorrow": 200,
+        "location": "24b8:fad6:7114:b2d3:4f30:5995:e115:e09d"
+    },
+    {
+        "id": 146,
+        "name": "nulla sed",
+        "publisher": "Edgeblab",
+        "numberPages": 111,
+        "status": "Polygender",
+        "totalBooks": 1048,
+        "numberBorrow": 200,
+        "location": "614d:ef06:7540:6a97:d55c:e2c1:c4f4:f2ed"
+    },
+    {
+        "id": 147,
+        "name": "nunc viverra dapibus",
+        "publisher": "Eare",
+        "numberPages": 112,
+        "status": "Genderqueer",
+        "totalBooks": 1049,
+        "numberBorrow": 200,
+        "location": "4cd0:f8e2:ccfd:57cf:7525:f7ce:f06f:ff8c"
+    },
+    {
+        "id": 148,
+        "name": "nunc nisl",
+        "publisher": "Layo",
+        "numberPages": 113,
+        "status": "Female",
+        "totalBooks": 1050,
+        "numberBorrow": 200,
+        "location": "a4ce:db8b:a9f1:1157:7b3b:16ec:adae:e103"
+    },
+    {
+        "id": 149,
+        "name": "tempor turpis nec",
+        "publisher": "Browseblab",
+        "numberPages": 114,
+        "status": "Female",
+        "totalBooks": 1051,
+        "numberBorrow": 200,
+        "location": "6638:d1b3:cd2a:dd64:41d7:2300:6354:9c09"
+    },
+    {
+        "id": 150,
+        "name": "elementum ligula vehicula",
+        "publisher": "Yodel",
+        "numberPages": 115,
+        "status": "Bigender",
+        "totalBooks": 1052,
+        "numberBorrow": 200,
+        "location": "44f5:74d3:129f:eea4:7081:ca:613c:616c"
+    }
+]

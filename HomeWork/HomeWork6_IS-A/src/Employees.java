@@ -4,14 +4,14 @@ import java.text.DecimalFormat;
 public class Employees {
 
     // mã nhân viên, họ tên, tuổi, số điện thoại, email, lương cơ bản
-    protected int id;
+    protected long id;
     protected String name;
     protected int age;
     protected String phoneNumber, email;
     protected long basicSalary;
 
     // tạo contructor
-    public Employees(int id, String name, int age, String phoneNumber, String email, long basicSalary) {
+    public Employees(long id, String name, int age, String phoneNumber, String email, long basicSalary) {
         this.id = id;
         this.name = name;
         this.age = age;
@@ -24,11 +24,11 @@ public class Employees {
     }
 
     // tạo getter và setter
-    public int getId() {
+    public long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(long id) {
         this.id = id;
     }
 

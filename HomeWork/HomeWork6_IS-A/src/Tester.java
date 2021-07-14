@@ -5,7 +5,7 @@ public class Tester extends Employees {
     private int bugsCount;
 
     // contructor
-    public Tester(int id, String name, int age, String phoneNumber, String email, long basicSalary, int bugsCount) {
+    public Tester(long id, String name, int age, String phoneNumber, String email, long basicSalary, int bugsCount) {
         super(id, name, age, phoneNumber, email, basicSalary);
         this.bugsCount = bugsCount;
     }

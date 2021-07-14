@@ -1,0 +1,452 @@
+[
+    {
+        "id": 51,
+        "name": "Ardelle Halahan",
+        "publisher": "Halahan",
+        "numberPages": 56,
+        "status": "Genderfluid",
+        "yearOfProtections": 1987,
+        "location": "73-F8-0D-C6-81-F7"
+    },
+    {
+        "id": 52,
+        "name": "Berti Currom",
+        "publisher": "Currom",
+        "numberPages": 57,
+        "status": "Male",
+        "yearOfProtections": 1988,
+        "location": "55-5A-32-37-83-61"
+    },
+    {
+        "id": 53,
+        "name": "Zoe McGinney",
+        "publisher": "McGinney",
+        "numberPages": 58,
+        "status": "Genderfluid",
+        "yearOfProtections": 1989,
+        "location": "CD-EE-EE-6C-51-CF"
+    },
+    {
+        "id": 54,
+        "name": "Amy Kettel",
+        "publisher": "Kettel",
+        "numberPages": 59,
+        "status": "Polygender",
+        "yearOfProtections": 1990,
+        "location": "0A-BD-66-4E-6F-69"
+    },
+    {
+        "id": 55,
+        "name": "Marlee Pembery",
+        "publisher": "Pembery",
+        "numberPages": 60,
+        "status": "Polygender",
+        "yearOfProtections": 1991,
+        "location": "E0-F8-C8-9A-65-ED"
+    },
+    {
+        "id": 56,
+        "name": "Shelba Sharman",
+        "publisher": "Sharman",
+        "numberPages": 61,
+        "status": "Genderfluid",
+        "yearOfProtections": 1992,
+        "location": "03-43-2D-95-2C-D0"
+    },
+    {
+        "id": 57,
+        "name": "Tobey Sherred",
+        "publisher": "Sherred",
+        "numberPages": 62,
+        "status": "Male",
+        "yearOfProtections": 1993,
+        "location": "9B-F0-32-64-DC-9D"
+    },
+    {
+        "id": 58,
+        "name": "Janeva Havoc",
+        "publisher": "Havoc",
+        "numberPages": 63,
+        "status": "Genderfluid",
+        "yearOfProtections": 1994,
+        "location": "D1-C4-92-D6-37-D4"
+    },
+    {
+        "id": 59,
+        "name": "Shirley Lightfoot",
+        "publisher": "Lightfoot",
+        "numberPages": 64,
+        "status": "Genderfluid",
+        "yearOfProtections": 1995,
+        "location": "56-D3-74-4E-9C-A9"
+    },
+    {
+        "id": 60,
+        "name": "Maurizio Di Domenico",
+        "publisher": "Di Domenico",
+        "numberPages": 65,
+        "status": "Genderfluid",
+        "yearOfProtections": 1996,
+        "location": "72-9E-A5-9D-99-45"
+    },
+    {
+        "id": 61,
+        "name": "Jessy Nunan",
+        "publisher": "Nunan",
+        "numberPages": 66,
+        "status": "Female",
+        "yearOfProtections": 1997,
+        "location": "79-50-66-78-AD-1B"
+    },
+    {
+        "id": 62,
+        "name": "Rab Sellstrom",
+        "publisher": "Sellstrom",
+        "numberPages": 67,
+        "status": "Female",
+        "yearOfProtections": 1998,
+        "location": "FE-04-8B-39-D8-02"
+    },
+    {
+        "id": 63,
+        "name": "Lindie Hanshawe",
+        "publisher": "Hanshawe",
+        "numberPages": 68,
+        "status": "Genderfluid",
+        "yearOfProtections": 1999,
+        "location": "7A-0E-F8-B7-12-B0"
+    },
+    {
+        "id": 64,
+        "name": "Jillie Rounds",
+        "publisher": "Rounds",
+        "numberPages": 69,
+        "status": "Polygender",
+        "yearOfProtections": 2000,
+        "location": "FE-C7-58-AF-FC-79"
+    },
+    {
+        "id": 65,
+        "name": "Elwyn Fley",
+        "publisher": "Fley",
+        "numberPages": 70,
+        "status": "Polygender",
+        "yearOfProtections": 2001,
+        "location": "32-B0-92-32-62-DF"
+    },
+    {
+        "id": 66,
+        "name": "Bruno Kitcherside",
+        "publisher": "Kitcherside",
+        "numberPages": 71,
+        "status": "Non-binary",
+        "yearOfProtections": 2002,
+        "location": "F9-39-AE-4C-62-92"
+    },
+    {
+        "id": 67,
+        "name": "Tobit Turbitt",
+        "publisher": "Turbitt",
+        "numberPages": 72,
+        "status": "Female",
+        "yearOfProtections": 2003,
+        "location": "49-8D-8B-39-FC-B0"
+    },
+    {
+        "id": 68,
+        "name": "Giorgio Grayham",
+        "publisher": "Grayham",
+        "numberPages": 73,
+        "status": "Polygender",
+        "yearOfProtections": 2004,
+        "location": "24-B2-86-64-D9-69"
+    },
+    {
+        "id": 69,
+        "name": "Melisenda Bengtson",
+        "publisher": "Bengtson",
+        "numberPages": 74,
+        "status": "Male",
+        "yearOfProtections": 2005,
+        "location": "17-D8-D4-36-D0-74"
+    },
+    {
+        "id": 70,
+        "name": "Clemmy Gosland",
+        "publisher": "Gosland",
+        "numberPages": 75,
+        "status": "Genderqueer",
+        "yearOfProtections": 2006,
+        "location": "44-09-43-9F-87-CC"
+    },
+    {
+        "id": 71,
+        "name": "Doris Gontier",
+        "publisher": "Gontier",
+        "numberPages": 76,
+        "status": "Genderqueer",
+        "yearOfProtections": 2007,
+        "location": "17-E1-6C-11-FE-29"
+    },
+    {
+        "id": 72,
+        "name": "Immanuel Starkey",
+        "publisher": "Starkey",
+        "numberPages": 77,
+        "status": "Agender",
+        "yearOfProtections": 2008,
+        "location": "C5-66-CF-B0-E8-5A"
+    },
+    {
+        "id": 73,
+        "name": "Sissie Bryan",
+        "publisher": "Bryan",
+        "numberPages": 78,
+        "status": "Female",
+        "yearOfProtections": 2009,
+        "location": "49-8B-4D-28-6C-5F"
+    },
+    {
+        "id": 74,
+        "name": "Ambrosi Beton",
+        "publisher": "Beton",
+        "numberPages": 79,
+        "status": "Female",
+        "yearOfProtections": 2010,
+        "location": "B5-36-C5-7C-CF-E2"
+    },
+    {
+        "id": 75,
+        "name": "Tabor Ommanney",
+        "publisher": "Ommanney",
+        "numberPages": 80,
+        "status": "Agender",
+        "yearOfProtections": 2011,
+        "location": "A0-C8-89-2E-B4-B7"
+    },
+    {
+        "id": 76,
+        "name": "Carmen Hembry",
+        "publisher": "Hembry",
+        "numberPages": 81,
+        "status": "Bigender",
+        "yearOfProtections": 2012,
+        "location": "51-93-DB-BE-2F-8E"
+    },
+    {
+        "id": 77,
+        "name": "Gifford Slane",
+        "publisher": "Slane",
+        "numberPages": 82,
+        "status": "Female",
+        "yearOfProtections": 2013,
+        "location": "72-CB-B1-BF-F8-BD"
+    },
+    {
+        "id": 78,
+        "name": "Wallache Edling",
+        "publisher": "Edling",
+        "numberPages": 83,
+        "status": "Bigender",
+        "yearOfProtections": 2014,
+        "location": "8C-1B-55-93-F5-79"
+    },
+    {
+        "id": 79,
+        "name": "Byrann Sinney",
+        "publisher": "Sinney",
+        "numberPages": 84,
+        "status": "Male",
+        "yearOfProtections": 2015,
+        "location": "7B-90-B8-3C-78-2D"
+    },
+    {
+        "id": 80,
+        "name": "Brier Shurman",
+        "publisher": "Shurman",
+        "numberPages": 85,
+        "status": "Agender",
+        "yearOfProtections": 2016,
+        "location": "A0-A0-9D-08-1F-16"
+    },
+    {
+        "id": 81,
+        "name": "Ginni Nester",
+        "publisher": "Nester",
+        "numberPages": 86,
+        "status": "Polygender",
+        "yearOfProtections": 2017,
+        "location": "37-B7-57-52-25-A8"
+    },
+    {
+        "id": 82,
+        "name": "Marci Scotts",
+        "publisher": "Scotts",
+        "numberPages": 87,
+        "status": "Genderfluid",
+        "yearOfProtections": 2018,
+        "location": "0F-82-AC-3F-D5-55"
+    },
+    {
+        "id": 83,
+        "name": "Ron Jevons",
+        "publisher": "Jevons",
+        "numberPages": 88,
+        "status": "Male",
+        "yearOfProtections": 2019,
+        "location": "A3-3A-35-26-E9-A7"
+    },
+    {
+        "id": 84,
+        "name": "Zara Coxhead",
+        "publisher": "Coxhead",
+        "numberPages": 89,
+        "status": "Genderfluid",
+        "yearOfProtections": 2020,
+        "location": "6C-A4-D2-A4-63-64"
+    },
+    {
+        "id": 85,
+        "name": "Gerrie Connah",
+        "publisher": "Connah",
+        "numberPages": 90,
+        "status": "Male",
+        "yearOfProtections": 2021,
+        "location": "0C-DF-12-F5-68-71"
+    },
+    {
+        "id": 86,
+        "name": "Aeriell Matuszewski",
+        "publisher": "Matuszewski",
+        "numberPages": 91,
+        "status": "Male",
+        "yearOfProtections": 2022,
+        "location": "04-14-87-A5-65-8C"
+    },
+    {
+        "id": 87,
+        "name": "Maurise Robic",
+        "publisher": "Robic",
+        "numberPages": 92,
+        "status": "Polygender",
+        "yearOfProtections": 2023,
+        "location": "23-FE-FF-5F-D0-61"
+    },
+    {
+        "id": 88,
+        "name": "Melinde Sangra",
+        "publisher": "Sangra",
+        "numberPages": 93,
+        "status": "Female",
+        "yearOfProtections": 2024,
+        "location": "5D-7F-4A-F8-F5-3C"
+    },
+    {
+        "id": 89,
+        "name": "Leontine Williams",
+        "publisher": "Williams",
+        "numberPages": 94,
+        "status": "Genderqueer",
+        "yearOfProtections": 2025,
+        "location": "B2-FC-B9-48-58-5D"
+    },
+    {
+        "id": 90,
+        "name": "Wells Marchment",
+        "publisher": "Marchment",
+        "numberPages": 95,
+        "status": "Non-binary",
+        "yearOfProtections": 2026,
+        "location": "C6-9B-B2-3E-31-B3"
+    },
+    {
+        "id": 91,
+        "name": "Rebekah Winterbourne",
+        "publisher": "Winterbourne",
+        "numberPages": 96,
+        "status": "Genderfluid",
+        "yearOfProtections": 2027,
+        "location": "76-C1-39-27-E5-F2"
+    },
+    {
+        "id": 92,
+        "name": "Nicola Vogl",
+        "publisher": "Vogl",
+        "numberPages": 97,
+        "status": "Bigender",
+        "yearOfProtections": 2028,
+        "location": "88-67-A5-E1-16-C0"
+    },
+    {
+        "id": 93,
+        "name": "Nobie McJerrow",
+        "publisher": "McJerrow",
+        "numberPages": 98,
+        "status": "Genderfluid",
+        "yearOfProtections": 2029,
+        "location": "D4-2B-AB-8B-46-C4"
+    },
+    {
+        "id": 94,
+        "name": "Haskel Hartfield",
+        "publisher": "Hartfield",
+        "numberPages": 99,
+        "status": "Female",
+        "yearOfProtections": 2030,
+        "location": "E2-DA-BC-26-4D-CA"
+    },
+    {
+        "id": 95,
+        "name": "Tarra Pallas",
+        "publisher": "Pallas",
+        "numberPages": 100,
+        "status": "Genderfluid",
+        "yearOfProtections": 2031,
+        "location": "9D-39-F7-E2-15-77"
+    },
+    {
+        "id": 96,
+        "name": "Perkin Sherlaw",
+        "publisher": "Sherlaw",
+        "numberPages": 101,
+        "status": "Non-binary",
+        "yearOfProtections": 2032,
+        "location": "D1-E4-6F-25-F1-C1"
+    },
+    {
+        "id": 97,
+        "name": "Donni Wardhaugh",
+        "publisher": "Wardhaugh",
+        "numberPages": 102,
+        "status": "Polygender",
+        "yearOfProtections": 2033,
+        "location": "C4-F8-D5-61-3D-9B"
+    },
+    {
+        "id": 98,
+        "name": "Andi Ferrario",
+        "publisher": "Ferrario",
+        "numberPages": 103,
+        "status": "Genderqueer",
+        "yearOfProtections": 2034,
+        "location": "77-D2-CE-F2-29-58"
+    },
+    {
+        "id": 99,
+        "name": "Frederik McKleod",
+        "publisher": "McKleod",
+        "numberPages": 104,
+        "status": "Agender",
+        "yearOfProtections": 2035,
+        "location": "94-E1-FD-A9-34-2F"
+    },
+    {
+        "id": 100,
+        "name": "Norry Balogun",
+        "publisher": "Balogun",
+        "numberPages": 105,
+        "status": "Genderqueer",
+        "yearOfProtections": 2036,
+        "location": "12-13-42-2F-20-5C"
+    }
+]

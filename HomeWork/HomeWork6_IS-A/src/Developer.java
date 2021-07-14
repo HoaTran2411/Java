@@ -6,7 +6,7 @@ public class Developer extends Employees {
     private int overTimeHours;
 
     // contructor
-    public Developer(int id, String name, int age, String phoneNumber, String email, long basicSalary,
+    public Developer(long id, String name, int age, String phoneNumber, String email, long basicSalary,
             int overTimeHours) {
         super(id, name, age, phoneNumber, email, basicSalary);
         this.overTimeHours = overTimeHours;
