@@ -7,6 +7,10 @@ public class Team {
     ArrayList<Player> selectedTeam;
     Random general = new Random();
 
+    // Random rd = new Random();
+    // int number = rd.nextInt();  // trả về 1 số nguyên bất kỳ
+    // int number1 = rd.nextInt(int n);    // trả về 1 số nguyên nằm trong phạm vi [0...n-1]
+
     // tạo các biến về số lượng cầu thủ từng vị trí:
     int gateKeeperSize = 0;
     int defenderSize = 0;
@@ -93,6 +97,7 @@ public class Team {
             System.out.println(player);
         }
     }
+
 
     public void findGateKepper(int a) {
         while (gateKeeperSize < a) { // Vì GK chỉ có 1 người nên vòng lặp sẽ dừng lại khi tìm được 1 người
