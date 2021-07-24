@@ -4,6 +4,7 @@ public class Menu {
         System.out.println("2: Hiển thị thông tin dựa theo hãng");
         System.out.println("3: Hiển thị thông tin theo danh mục và mức giá");
         System.out.println("4: Tìm kiếm sản phẩm");
+        System.out.println("5: Thoát chương trình");
     }
 
     public static void chooseCategory(){
