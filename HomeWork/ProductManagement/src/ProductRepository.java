@@ -6,9 +6,6 @@ import java.util.Scanner;
 
 public class ProductRepository {
     Category category;
-    int count = 0;
-    Boolean isCheckExist = true;
-    Product productById = new Product();
     List<Product> productList = new ArrayList<Product>();
     Scanner sc = new Scanner(System.in);
     Category food = Category.FOOD;
@@ -33,7 +30,7 @@ public class ProductRepository {
         productList.add(new Product(12, "Cơm rang hải sản", food, 12000, 60000, 11000));
         productList.add(new Product(13, "Canh kim chi", food, 10000, 30000, 9000));
         productList.add(new Product(14, "bún cá", food, 1000, 30000, 900));
-        productList.add(new Product(14, "Son ACE", other, 200, 450000, 50));
+        productList.add(new Product(15, "Son ACE", other, 200, 450000, 50));
     }
 
     // in danh sách sản phẩm:
@@ -56,52 +53,47 @@ public class ProductRepository {
         productList.add(new Product(id, name, category, quantity, price, quantitySold));
     }
 
-    // tìm index của sản phẩm theo ID:
-    public int findIndexProductById(long id) {
-        int index = 0;
+    // sửa sản phẩm:
+    public void editProductById(long id) {
+        int count = 0;
         for (int i = 0; i < productList.size(); i++) {
             if (productList.get(i).getId() == id) {
-                productById = productList.get(i);
-                index = i;
+                System.out.println("Sản phẩm cần sửa có mã sản phẩm là " + id + ": ");
+                System.out.println(productList.get(i));
+                System.out.println("Update thông tin sản phẩm có mã sản phẩm là " + id + ": ");
+                System.out.println("Nhập tên mới sản phẩm: ");
+                String name = sc.nextLine();
+                chooseCategory();
+                long quantity = checkNumber("số lượng");
+                long price = checkNumber("giá bán");
+                long quantitySold = checkNumber("số lượng bán");
+                productList.set(i, new Product(id, name, category, quantity, price, quantitySold));
                 count++;
             }
         }
-        return index;
-    }
-
-    // Tìm sản phẩm theo mã sản phẩm:
-    public void findProductById(long id) {
-        findIndexProductById(id);
         if (count == 0) {
             System.out.println("Không tồn tại sản phẩm này!");
-            isCheckExist = false;
         } else {
-            System.out.println("Sản phẩm có mã sản phẩm là " + id + ": ");
-            System.out.println(productById);
-        }
-    }
-
-    // sửa sản phẩm:
-    public void editProductById(long id) {
-        if (isCheckExist) {
-            System.out.println("Update thông tin sản phẩm có mã sản phẩm là " + id + ": ");
-            System.out.println("Nhập tên sản phẩm: ");
-            String name = sc.nextLine();
-            chooseCategory();
-            long quantity = checkNumber("số lượng");
-            long price = checkNumber("giá bán");
-            long quantitySold = checkNumber("số lượng bán");
-            productList.set(findIndexProductById(id), new Product(id, name, category, quantity, price, quantitySold));
-            System.out.println("Danh sách sản phẩm sau khi update: ");
+            System.out.println("\nDanh sách sản phẩm sau khi update: ");
             printProduct();
         }
     }
 
     // xóa sản phẩm theo id:
     public void deleteProductById(long id) {
-        if (isCheckExist) {
-            productList.remove(findIndexProductById(id));
-            System.out.println("Danh sách sản phẩm sau khi update: ");
+        int count = 0;
+        for (int i = 0; i < productList.size(); i++) {
+            if (productList.get(i).getId() == id) {
+                System.out.println("Sản phẩm cần xóa có mã sản phẩm là " + id + ": ");
+                System.out.println(productList.get(i));
+                productList.remove(productList.get(i));
+                count++;
+            }
+        }
+        if (count == 0) {
+            System.out.println("Không tồn tại sản phẩm này!");
+        } else {
+            System.out.println("\nDanh sách sản phẩm sau khi update: ");
             printProduct();
         }
     }

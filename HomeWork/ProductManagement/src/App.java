@@ -13,30 +13,28 @@ public class App {
                     int choose = Integer.parseInt(sc.nextLine());
                     switch (choose) {
                         case 1:
-                            System.out.println("Danh sách toàn bộ sản phẩm: ");
+                            System.out.println("\nDanh sách toàn bộ sản phẩm: ");
                             repository.printProduct();
                             break;
                         case 2:
                             repository.addProduct();
-                            System.out.println("Danh sách sản phẩm sau khi đã thêm vào: ");
+                            System.out.println("\nDanh sách sản phẩm sau khi đã thêm vào: ");
                             repository.printProduct();
                             break;
                         case 3:
                             id = repository.checkNumber("mã sản phẩm");
-                            repository.findProductById(id);
                             repository.editProductById(id);
                             break;
                         case 4:
                             id = repository.checkNumber("mã sản phẩm");
-                            repository.findProductById(id);
                             repository.deleteProductById(id);
                             break;
                         case 5:
-                            System.out.println("Số lượng bán được của từng sản phẩm: ");
+                            System.out.println("\nSố lượng bán được của từng sản phẩm: ");
                             repository.getIdAndQuantitySold();
                             break;
                         case 6:
-                            System.out.println("Số lượng sản phẩm theo từng danh mục: ");
+                            System.out.println("\nSố lượng sản phẩm theo từng danh mục: ");
                             repository.getQuantityOfCategory();
                             break;
                         case 7:
